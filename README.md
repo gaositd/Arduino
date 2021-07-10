@@ -56,4 +56,3 @@ Para reportar fallos utilizad el sistema de ["Issues"](https://github.com/Xibhu/
 
 En mi caso utilizo el editor de texto Visual Studio Code en linux con el plugin o extensión de `PlatformIO`. El tutorial de instalación y uso es el siguiente enlace: https://randomnerdtutorials.com/vs-code-platformio-ide-esp32-esp8266-arduino/
 
-Como utilidad añadida, se puede colocar en cada proyecto creado con `PlatforIO` la ruta de una carpeta de librerías. Al crear un proyecto, se abre el archivo `platformio.ini` y se añade la línea `lib_extra_dirs = /home/xibhu/Proyectos/arduino/Librerias/src`. Colocando la ruta que os corresponda. En linux importante colocar la barra `/` al principio de la ruta.
